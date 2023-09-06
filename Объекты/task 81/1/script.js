@@ -1,0 +1,13 @@
+let obj = {1: 'Январь', 2: 'Февраль', 3: 'Март', 4: 'Апрель', 5: 'Май', 6: 'Июнь', 7:'Июль', 8: 'Август', 9: 'Сентрябрь', 10: 'Октябрь', 11: 'Ноябрь', 12: 'Декаьрь'};
+alert(obj[1]);
+alert(obj[2]);
+alert(obj[3]);
+alert(obj[4]);
+alert(obj[5]);
+alert(obj[6]);
+alert(obj[7]);
+alert(obj[8]);
+alert(obj[9]);
+alert(obj[10]);
+alert(obj[11]);
+alert(obj[12]);
